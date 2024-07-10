@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Oshan Dilmina</h1>
-<h3 align="center">I'm a Programmer Who Get Errors</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thatonepython&label=Profile%20views&color=0e75b6&style=flat" alt="thatonepython" /> </p>
+
+<center><p > <img src="https://komarev.com/ghpvc/?username=thatonepython&label=Profile%20views&color=0e75b6&style=flat" alt="thatonepython" /> </p></center>
 
 - 🔭 I’m currently working on [Nothing](Nothing.Yet)
 
-- 💬 Ask me about **Python , Me**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **oshandil123@gmail.com**
 
-- ⚡ Fun fact **This Is Github**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
